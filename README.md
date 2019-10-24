@@ -1,5 +1,5 @@
 # Discrete Signal Processing
 
-first projects on Discrete Signal Projects
+first projects I worked on to get started in Discrete Signals
 
 level: basic
